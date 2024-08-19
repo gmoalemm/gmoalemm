@@ -14,19 +14,19 @@ I'm currently pursuing a _**Bachelor's degree in Computer Science**_ at BGU 👨
 - ➗ Mathematical Applications in Computer Science `Python`
 - 🧩 Design of Algorithms
 - 💻 Systems Programming (SPL) `C++` `Java`
-- 🛠️ Extended System Programming Laboratory (ESPL) `C` `x86 Assembly` <sub>currently taking 
-- 💬 Principles of Programming Languages (PPL) `TypeScript` `Scheme` <sub>currently taking
-- 🤖 Computational Models <sub>currently taking
+- 🛠️ Extended System Programming Laboratory (ESPL) `C` `x86 Assembly`
+- 💬 Principles of Programming Languages (PPL) `TypeScript` `Scheme`
+- 🤖 Computational Models
 
 
 #### Math Courses ####
 - 📐 Linear Algebra for Engineering
-- 📐 (Linear) Algebra 2 <sub>currently taking
+- 📐 (Linear) Algebra 2
 - 🧠 Introduction to Logic and Set Theory
 - 🌲 Discrete Structures and Combinatorics
 - ♾️ Calculus 1
 - ♾️ Calculus 2
 - 🎲 Introduction to Probability
-- 📊 Probability and Statistics <sub>currently taking
+- 📊 Probability and Statistics
 
 
