@@ -17,7 +17,8 @@ I'm currently pursuing a _**Bachelor's degree in Computer Science**_ at BGU 👨
 - 🛠️ Extended System Programming Laboratory (ESPL) `C` `x86 Assembly`
 - 💬 Principles of Programming Languages (PPL) `TypeScript` `Scheme`
 - 🤖 Computational Models
-
+- 🔌 Digital Systems <sub>currently taking
+- 🗄️ Data Base Systems <sub>currently taking
 
 #### Math Courses ####
 - 📐 Linear Algebra for Engineering
